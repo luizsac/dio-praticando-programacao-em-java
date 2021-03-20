@@ -1,2 +1,4 @@
 one/digitalinnovation/desafio1/MinhaPrimeiraClasse.java
  one.digitalinnovation.desafio1.MinhaPrimeiraClasse
+one/digitalinnovation/desafio2/MinhaPrimeiraClasse.java
+ one.digitalinnovation.desafio2.MinhaPrimeiraClasse
